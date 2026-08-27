@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : <<<Igor Aparecido Minucelli Pinto>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/<<1383>>
+Data        : 27/08/2026
+Objetivo    : Verificar se uma matriz 9x9 corresponde as regras do sudoku.
+Dificuldade : <<<Foi em fazer a verificação dos blocos de 3x3 >>>
+Uso de IA   : <<<Usei para entender como eu poderia andadr de bloco em bloco e fazer a verificação dos valores de 1 a 9>>>
+-------------------------------------------------------------------------- */
 #include<stdio.h>
 
 int sudoku[9][9];
