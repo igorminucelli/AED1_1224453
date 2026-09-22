@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : <<<Igor Aparecido Minucelli Pinto>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/<<1110>>
+Data        : 21/09/2026
+Objetivo    : Mover a carta a do topo para baixo e encontrar a sequência de cartas descartadas.
+Dificuldade : <<<Entender como funciona os descartes>>>
+Uso de IA   : <<<Usei para entender como por em pratica o uso das filas>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
