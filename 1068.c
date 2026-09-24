@@ -2,7 +2,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : <<<Igor Aparecido Minucelli Pinto>>>
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/<<1068>>
+Problema    : https://judge.beecrowd.com/pt/problems/view/1068
 Data        : 21/09/2026
 Objetivo    : Dada uma expressão que possui parênteses, devemos dizer se a quantidade de parênteses está correta.
 Dificuldade : <<<Usar a pilha para resolver >>>
