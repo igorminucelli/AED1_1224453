@@ -2,7 +2,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : <<<Igor Aparecido Minucelli Pinto>>>
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/<<1383>>
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
 Data        : 27/08/2026
 Objetivo    : Verificar se uma matriz 9x9 corresponde as regras do sudoku e usar alocação dinâmica.
 Dificuldade : <<<A dificuldade foi usar a locação dinâmica, pois eu tive que criar um vetor de vetor e alocar os 9 números de cada linha >>>
