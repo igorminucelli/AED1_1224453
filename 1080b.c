@@ -2,7 +2,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : <<<Igor Aparecido Minucelli Pinto>>>
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/<<1080>>
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080
 Data        : 27/08/2026
 Objetivo    : Ler um vetor de 100 inteiros e mostrar o maior valor entre eles e a posição e utilizar alocação de memória.
 Dificuldade : <<<Não houve dificuldade>>>
