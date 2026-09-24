@@ -2,7 +2,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : <<<Igor Aparecido Minucelli Pinto>>>
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/<<1383>>
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
 Data        : 27/08/2026
 Objetivo    : Verificar se uma matriz 9x9 corresponde as regras do sudoku.
 Dificuldade : <<<Foi em fazer a verificação dos blocos de 3x3 >>>
