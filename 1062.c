@@ -16,19 +16,19 @@ typedef struct no {
     struct no* proximo;
 } no;
 
-void empilha(int novovalor, no* cabeça) {
+void empilha(int novovalor, no* cabeca) {
     no* novo = malloc(sizeof(no));
     novo->valor = novovalor;
-    novo->proximo = cabeça->proximo;
-    cabeça->proximo = novo;
+    novo->proximo = cabeca->proximo;
+    cabeca->proximo = novo;
 }
 
-int desempilha(no* cabeça) {
-    if (cabeça->proximo == NULL) {
+int desempilha(no* cabeca) {
+    if (cabeca->proximo == NULL) {
         return -1;
     }
-    no* aux = cabeça->proximo;
-    cabeça->proximo = aux->proximo;
+    no* aux = cabeca->proximo;
+    cabeca->proximo = aux->proximo;
     int valorremovido = aux->valor;
     free(aux);
     return valorremovido;
