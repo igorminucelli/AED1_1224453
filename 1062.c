@@ -1,4 +1,13 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : <<<Igor Aparecido Minucelli Pinto>>>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1062
+Data        : 14/10/2026
+Objetivo    : Dado um vagão com determinada quantidade de carga(sendo valores) devemos organizar para saber se é possivel passar pelo trilho
+Dificuldade : <<<Como usar o vagão atual, em que empilharemos ou desempilharemos>>>
+Uso de IA   : <<<Usei para entender como por em pratica o uso das pilhas e entender melhor o enunciado do problema>>>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
